@@ -1,0 +1,3 @@
+ip address-Allgamingyt75.aternos.me:34379
+port-34379
+name-Allgamingyt75
